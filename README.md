@@ -6,4 +6,4 @@ Dependencies: Numpy, OpenCV, PIL
 
 Run
 ``python window.pyw``
-or open from file explorer
+from command line or open with file explorer
